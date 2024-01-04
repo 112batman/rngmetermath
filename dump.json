@@ -1,0 +1,1812 @@
+{
+  "F1": [
+    {
+      "displayName": "§9Bonzo's Staff",
+      "id": "BONZO_STAFF",
+      "chance": 0.009434,
+      "maxScore": 31800
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Jerry I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.009434,
+      "maxScore": 31800
+    },
+    {
+      "displayName": "§5Fuming Potato Book",
+      "id": "FUMING_POTATO_BOOK",
+      "chance": 0.018868,
+      "maxScore": 15900
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lBank I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.018868,
+      "maxScore": 15900
+    },
+    {
+      "displayName": "§6Recombobulator 3000",
+      "id": "RECOMBOBULATOR_3000",
+      "chance": 0.028302,
+      "maxScore": 10599
+    },
+    {
+      "displayName": "§9Bonzo's Mask",
+      "id": "BONZO_MASK",
+      "chance": 0.028302,
+      "maxScore": 10599
+    },
+    {
+      "displayName": "§9Red Nose",
+      "id": "RED_NOSE",
+      "chance": 0.028302,
+      "maxScore": 10599
+    },
+    {
+      "displayName": "§9Balloon Snake",
+      "id": "BALLOON_SNAKE",
+      "chance": 0.037736,
+      "maxScore": 7950
+    },
+    {
+      "displayName": "§5Hot Potato Book",
+      "id": "HOT_POTATO_BOOK",
+      "chance": 0.04717,
+      "maxScore": 6360
+    },
+    {
+      "displayName": "§aEnchanted Book (Infinite Quiver VI§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.075472,
+      "maxScore": 3975
+    },
+    {
+      "displayName": "§aEnchanted Book (Feather Falling VI§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.075472,
+      "maxScore": 3975
+    },
+    {
+      "displayName": "§9Necromancer's Brooch",
+      "id": "NECROMANCER_BROOCH",
+      "chance": 0.09434,
+      "maxScore": 3180
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lCombo I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.141509,
+      "maxScore": 2120
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lNo Pain No Gain I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.141509,
+      "maxScore": 2120
+    },
+    {
+      "displayName": "§aEnchanted Book (Rejuvenate I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.235849,
+      "maxScore": 1272
+    }
+  ],
+  "F2": [
+    {
+      "displayName": "§9Red Scarf",
+      "id": "RED_SCARF",
+      "chance": 0.015872999999999998,
+      "maxScore": 18900
+    },
+    {
+      "displayName": "§6Recombobulator 3000",
+      "id": "RECOMBOBULATOR_3000",
+      "chance": 0.031745999999999996,
+      "maxScore": 9450
+    },
+    {
+      "displayName": "§5Adaptive Blade",
+      "id": "STONE_BLADE",
+      "chance": 0.031745999999999996,
+      "maxScore": 9450
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lBank I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.031745999999999996,
+      "maxScore": 9450
+    },
+    {
+      "displayName": "§5Adaptive Belt",
+      "id": "ADAPTIVE_BELT",
+      "chance": 0.047618999999999995,
+      "maxScore": 6300
+    },
+    {
+      "displayName": "§5Fuming Potato Book",
+      "id": "FUMING_POTATO_BOOK",
+      "chance": 0.047618999999999995,
+      "maxScore": 6300
+    },
+    {
+      "displayName": "§9Scarf's Studies",
+      "id": "SCARF_STUDIES",
+      "chance": 0.06349199999999999,
+      "maxScore": 4725
+    },
+    {
+      "displayName": "§5Hot Potato Book",
+      "id": "HOT_POTATO_BOOK",
+      "chance": 0.07936499999999999,
+      "maxScore": 3780
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lCombo I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.07936499999999999,
+      "maxScore": 3780
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lNo Pain No Gain I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.07936499999999999,
+      "maxScore": 3780
+    },
+    {
+      "displayName": "§9Necromancer's Brooch",
+      "id": "NECROMANCER_BROOCH",
+      "chance": 0.07936499999999999,
+      "maxScore": 3780
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Wise I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.15872999999999998,
+      "maxScore": 1890
+    },
+    {
+      "displayName": "§aEnchanted Book (Rejuvenate I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.238095,
+      "maxScore": 1260
+    }
+  ],
+  "F3": [
+    {
+      "displayName": "§5Adaptive Chestplate",
+      "id": "ADAPTIVE_CHESTPLATE",
+      "chance": 0.011493999999999999,
+      "maxScore": 26100
+    },
+    {
+      "displayName": "§5Adaptive Leggings",
+      "id": "ADAPTIVE_LEGGINGS",
+      "chance": 0.011493999999999999,
+      "maxScore": 26100
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Jerry II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.011493999999999999,
+      "maxScore": 26100
+    },
+    {
+      "displayName": "§5Adaptive Helmet",
+      "id": "ADAPTIVE_HELMET",
+      "chance": 0.022989000000000002,
+      "maxScore": 13050
+    },
+    {
+      "displayName": "§5Adaptive Boots",
+      "id": "ADAPTIVE_BOOTS",
+      "chance": 0.022989000000000002,
+      "maxScore": 13050
+    },
+    {
+      "displayName": "§5Fuming Potato Book",
+      "id": "FUMING_POTATO_BOOK",
+      "chance": 0.034483,
+      "maxScore": 8700
+    },
+    {
+      "displayName": "§6Recombobulator 3000",
+      "id": "RECOMBOBULATOR_3000",
+      "chance": 0.045977,
+      "maxScore": 6525
+    },
+    {
+      "displayName": "§9Necromancer's Brooch",
+      "id": "NECROMANCER_BROOCH",
+      "chance": 0.045977,
+      "maxScore": 6525
+    },
+    {
+      "displayName": "§5Hot Potato Book",
+      "id": "HOT_POTATO_BOOK",
+      "chance": 0.057470999999999994,
+      "maxScore": 5220
+    },
+    {
+      "displayName": "§9Suspicious Vial",
+      "id": "SUSPICIOUS_VIAL",
+      "chance": 0.057470999999999994,
+      "maxScore": 5220
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lCombo I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.057470999999999994,
+      "maxScore": 5220
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lNo Pain No Gain I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.057470999999999994,
+      "maxScore": 5220
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Wise I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.091954,
+      "maxScore": 3262
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lBank II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.091954,
+      "maxScore": 3262
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lWisdom I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.091954,
+      "maxScore": 3262
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lLast Stand I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.137931,
+      "maxScore": 2175
+    },
+    {
+      "displayName": "§aEnchanted Book (Rejuvenate II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.137931,
+      "maxScore": 2175
+    }
+  ],
+  "F4": [
+    {
+      "displayName": "§5Spirit Sword",
+      "id": "SPIRIT_SWORD",
+      "chance": 0.012048000000000001,
+      "maxScore": 24899
+    },
+    {
+      "displayName": "§6Spirit Shortbow",
+      "id": "ITEM_SPIRIT_BOW",
+      "chance": 0.012048000000000001,
+      "maxScore": 24899
+    },
+    {
+      "displayName": "§5Spirit Boots",
+      "id": "THORNS_BOOTS",
+      "chance": 0.012048000000000001,
+      "maxScore": 24899
+    },
+    {
+      "displayName": "§7[Lvl 1] §6Spirit",
+      "id": "PET",
+      "chance": 0.012048000000000001,
+      "maxScore": 24899
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Jerry II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.012048000000000001,
+      "maxScore": 24899
+    },
+    {
+      "displayName": "§5Spirit Wing",
+      "id": "SPIRIT_WING",
+      "chance": 0.024096000000000003,
+      "maxScore": 12449
+    },
+    {
+      "displayName": "§5Spirit Bone",
+      "id": "SPIRIT_BONE",
+      "chance": 0.024096000000000003,
+      "maxScore": 12449
+    },
+    {
+      "displayName": "§9Spirit Stone",
+      "id": "SPIRIT_DECOY",
+      "chance": 0.024096000000000003,
+      "maxScore": 12449
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lRend II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.024096000000000003,
+      "maxScore": 12449
+    },
+    {
+      "displayName": "§6Recombobulator 3000",
+      "id": "RECOMBOBULATOR_3000",
+      "chance": 0.036145000000000004,
+      "maxScore": 8300
+    },
+    {
+      "displayName": "§5Fuming Potato Book",
+      "id": "FUMING_POTATO_BOOK",
+      "chance": 0.036145000000000004,
+      "maxScore": 8300
+    },
+    {
+      "displayName": "§5Hot Potato Book",
+      "id": "HOT_POTATO_BOOK",
+      "chance": 0.060240999999999996,
+      "maxScore": 4979
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lCombo I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.060240999999999996,
+      "maxScore": 4979
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lNo Pain No Gain I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.060240999999999996,
+      "maxScore": 4979
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Wise I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.096386,
+      "maxScore": 3112
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lBank II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.096386,
+      "maxScore": 3112
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lWisdom I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.096386,
+      "maxScore": 3112
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lLast Stand I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.144578,
+      "maxScore": 2075
+    },
+    {
+      "displayName": "§aEnchanted Book (Rejuvenate II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.144578,
+      "maxScore": 2075
+    }
+  ],
+  "F5": [
+    {
+      "displayName": "§6Shadow Fury",
+      "id": "SHADOW_FURY",
+      "chance": 0.002625,
+      "maxScore": 114300
+    },
+    {
+      "displayName": "§6Last Breath",
+      "id": "LAST_BREATH",
+      "chance": 0.002625,
+      "maxScore": 114300
+    },
+    {
+      "displayName": "§5Shadow Assassin Chestplate",
+      "id": "SHADOW_ASSASSIN_CHESTPLATE",
+      "chance": 0.005249,
+      "maxScore": 57150
+    },
+    {
+      "displayName": "§9Warped Stone",
+      "id": "AOTE_STONE",
+      "chance": 0.005249,
+      "maxScore": 57150
+    },
+    {
+      "displayName": "§6Livid Dagger",
+      "id": "LIVID_DAGGER",
+      "chance": 0.010499000000000001,
+      "maxScore": 28575
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Jerry III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.010499000000000001,
+      "maxScore": 28575
+    },
+    {
+      "displayName": "§5Shadow Assassin Leggings",
+      "id": "SHADOW_ASSASSIN_LEGGINGS",
+      "chance": 0.013123000000000001,
+      "maxScore": 22860
+    },
+    {
+      "displayName": "§5Shadow Assassin Cloak",
+      "id": "SHADOW_ASSASSIN_CLOAK",
+      "chance": 0.013123000000000001,
+      "maxScore": 22860
+    },
+    {
+      "displayName": "§6Recombobulator 3000",
+      "id": "RECOMBOBULATOR_3000",
+      "chance": 0.015747999999999998,
+      "maxScore": 19050
+    },
+    {
+      "displayName": "§5Shadow Assassin Helmet",
+      "id": "SHADOW_ASSASSIN_HELMET",
+      "chance": 0.026247,
+      "maxScore": 11430
+    },
+    {
+      "displayName": "§5Shadow Assassin Boots",
+      "id": "SHADOW_ASSASSIN_BOOTS",
+      "chance": 0.039369999999999995,
+      "maxScore": 7620
+    },
+    {
+      "displayName": "§5Fuming Potato Book",
+      "id": "FUMING_POTATO_BOOK",
+      "chance": 0.052493,
+      "maxScore": 5715
+    },
+    {
+      "displayName": "§aEnchanted Book (Overload I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.052493,
+      "maxScore": 5715
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lLegion I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.052493,
+      "maxScore": 5715
+    },
+    {
+      "displayName": "§aEnchanted Book (Lethality VI§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.052493,
+      "maxScore": 5715
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lCombo II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.052493,
+      "maxScore": 5715
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lNo Pain No Gain II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.052493,
+      "maxScore": 5715
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lBank III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.052493,
+      "maxScore": 5715
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lWisdom II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.065617,
+      "maxScore": 4572
+    },
+    {
+      "displayName": "§9Dark Orb",
+      "id": "DARK_ORB",
+      "chance": 0.07873999999999999,
+      "maxScore": 3810
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Wise II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.104987,
+      "maxScore": 2857
+    },
+    {
+      "displayName": "§aEnchanted Book (Rejuvenate III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.11810999999999999,
+      "maxScore": 2540
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lLast Stand II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.11810999999999999,
+      "maxScore": 2540
+    }
+  ],
+  "F6": [
+    {
+      "displayName": "§6Precursor Eye",
+      "id": "PRECURSOR_EYE",
+      "chance": 0.0011250000000000001,
+      "maxScore": 266699
+    },
+    {
+      "displayName": "§6Giant's Sword",
+      "id": "GIANTS_SWORD",
+      "chance": 0.001875,
+      "maxScore": 160020
+    },
+    {
+      "displayName": "§6Necromancer Lord Chestplate",
+      "id": "NECROMANCER_LORD_CHESTPLATE",
+      "chance": 0.003,
+      "maxScore": 100012
+    },
+    {
+      "displayName": "§9Summoning Ring",
+      "id": "SUMMONING_RING",
+      "chance": 0.00375,
+      "maxScore": 80010
+    },
+    {
+      "displayName": "§6Fel Skull",
+      "id": "FEL_SKULL",
+      "chance": 0.0056240000000000005,
+      "maxScore": 53339
+    },
+    {
+      "displayName": "§6Necromancer Sword",
+      "id": "NECROMANCER_SWORD",
+      "chance": 0.0074990000000000005,
+      "maxScore": 40005
+    },
+    {
+      "displayName": "§6Necromancer Lord Leggings",
+      "id": "NECROMANCER_LORD_LEGGINGS",
+      "chance": 0.011249,
+      "maxScore": 26669
+    },
+    {
+      "displayName": "§5Soulweaver Gloves",
+      "id": "SOULWEAVER_GLOVES",
+      "chance": 0.011249,
+      "maxScore": 26669
+    },
+    {
+      "displayName": "§6Necromancer Lord Helmet",
+      "id": "NECROMANCER_LORD_HELMET",
+      "chance": 0.014998000000000001,
+      "maxScore": 20002
+    },
+    {
+      "displayName": "§5Sadan's Brooch",
+      "id": "SADAN_BROOCH",
+      "chance": 0.014998000000000001,
+      "maxScore": 20002
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Jerry III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.014998000000000001,
+      "maxScore": 20002
+    },
+    {
+      "displayName": "§5Giant Tooth",
+      "id": "GIANT_TOOTH",
+      "chance": 0.018748,
+      "maxScore": 16001
+    },
+    {
+      "displayName": "§6Necromancer Lord Boots",
+      "id": "NECROMANCER_LORD_BOOTS",
+      "chance": 0.022497,
+      "maxScore": 13334
+    },
+    {
+      "displayName": "§6Recombobulator 3000",
+      "id": "RECOMBOBULATOR_3000",
+      "chance": 0.037495,
+      "maxScore": 8000
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lSwarm I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.056243,
+      "maxScore": 5334
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lNo Pain No Gain II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.065617,
+      "maxScore": 4572
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lBank III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.065617,
+      "maxScore": 4572
+    },
+    {
+      "displayName": "§5Fuming Potato Book",
+      "id": "FUMING_POTATO_BOOK",
+      "chance": 0.074991,
+      "maxScore": 4000
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lCombo II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.074991,
+      "maxScore": 4000
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lWisdom II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.08436400000000001,
+      "maxScore": 3556
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Wise II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.123735,
+      "maxScore": 2424
+    },
+    {
+      "displayName": "§aEnchanted Book (Rejuvenate III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.142482,
+      "maxScore": 2105
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lLast Stand II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.142482,
+      "maxScore": 2105
+    }
+  ],
+  "F7": [
+    {
+      "displayName": "§cStorm the Fish",
+      "id": "STORM_THE_FISH",
+      "chance": 0.00073,
+      "maxScore": 411180
+    },
+    {
+      "displayName": "§cMaxor the Fish",
+      "id": "MAXOR_THE_FISH",
+      "chance": 0.00073,
+      "maxScore": 411180
+    },
+    {
+      "displayName": "§cGoldor the Fish",
+      "id": "GOLDOR_THE_FISH",
+      "chance": 0.00073,
+      "maxScore": 411180
+    },
+    {
+      "displayName": "§5Necron's Handle",
+      "id": "NECRON_HANDLE",
+      "chance": 0.001094,
+      "maxScore": 274119
+    },
+    {
+      "displayName": "§5Shadow Warp",
+      "id": "SHADOW_WARP_SCROLL",
+      "chance": 0.001459,
+      "maxScore": 205590
+    },
+    {
+      "displayName": "§5Wither Shield",
+      "id": "WITHER_SHIELD_SCROLL",
+      "chance": 0.001459,
+      "maxScore": 205590
+    },
+    {
+      "displayName": "§5Implosion",
+      "id": "IMPLOSION_SCROLL",
+      "chance": 0.001459,
+      "maxScore": 205590
+    },
+    {
+      "displayName": "§6Auto Recombobulator",
+      "id": "AUTO_RECOMBOBULATOR",
+      "chance": 0.005837,
+      "maxScore": 51397
+    },
+    {
+      "displayName": "§6Wither Chestplate",
+      "id": "WITHER_CHESTPLATE",
+      "chance": 0.005837,
+      "maxScore": 51397
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lOne For All I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.005837,
+      "maxScore": 51397
+    },
+    {
+      "displayName": "§6Wither Leggings",
+      "id": "WITHER_LEGGINGS",
+      "chance": 0.023347000000000003,
+      "maxScore": 12849
+    },
+    {
+      "displayName": "§aEnchanted Book (Feather Falling VII§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.023347000000000003,
+      "maxScore": 12849
+    },
+    {
+      "displayName": "§6Recombobulator 3000",
+      "id": "RECOMBOBULATOR_3000",
+      "chance": 0.029184,
+      "maxScore": 10279
+    },
+    {
+      "displayName": "§5Fuming Potato Book",
+      "id": "FUMING_POTATO_BOOK",
+      "chance": 0.029184,
+      "maxScore": 10279
+    },
+    {
+      "displayName": "§9Wither Catalyst",
+      "id": "WITHER_CATALYST",
+      "chance": 0.029184,
+      "maxScore": 10279
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lNo Pain No Gain II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.029184,
+      "maxScore": 10279
+    },
+    {
+      "displayName": "§5Wither Cloak Sword",
+      "id": "WITHER_CLOAK",
+      "chance": 0.035021,
+      "maxScore": 8566
+    },
+    {
+      "displayName": "§6Wither Helmet",
+      "id": "WITHER_HELMET",
+      "chance": 0.035021,
+      "maxScore": 8566
+    },
+    {
+      "displayName": "§5Wither Blood",
+      "id": "WITHER_BLOOD",
+      "chance": 0.035021,
+      "maxScore": 8566
+    },
+    {
+      "displayName": "§6Wither Boots",
+      "id": "WITHER_BOOTS",
+      "chance": 0.035021,
+      "maxScore": 8566
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lBank III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.03648,
+      "maxScore": 8223
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lWisdom II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.03648,
+      "maxScore": 8223
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Jerry III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.043776,
+      "maxScore": 6853
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lSoul Eater I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.058369,
+      "maxScore": 5139
+    },
+    {
+      "displayName": "§5Hot Potato Book",
+      "id": "HOT_POTATO_BOOK",
+      "chance": 0.058369,
+      "maxScore": 5139
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Wise II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.058369,
+      "maxScore": 5139
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lCombo II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.072961,
+      "maxScore": 4111
+    },
+    {
+      "displayName": "§aEnchanted Book (Rejuvenate III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.072961,
+      "maxScore": 4111
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lLast Stand II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.072961,
+      "maxScore": 4111
+    },
+    {
+      "displayName": "§aEnchanted Book (Infinite Quiver VII§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.072961,
+      "maxScore": 4111
+    },
+    {
+      "displayName": "§5Precursor Gear",
+      "id": "PRECURSOR_GEAR",
+      "chance": 0.087553,
+      "maxScore": 3426
+    }
+  ],
+  "M1": [
+    {
+      "displayName": "§9Bonzo's Staff",
+      "id": "BONZO_STAFF",
+      "chance": 0.011628000000000001,
+      "maxScore": 25800
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Jerry I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.011628000000000001,
+      "maxScore": 25800
+    },
+    {
+      "displayName": "§5Fuming Potato Book",
+      "id": "FUMING_POTATO_BOOK",
+      "chance": 0.023256000000000002,
+      "maxScore": 12900
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lBank I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.023256000000000002,
+      "maxScore": 12900
+    },
+    {
+      "displayName": "§fMaster Skull - Tier 1",
+      "id": "MASTER_SKULL_TIER_1",
+      "chance": 0.034884,
+      "maxScore": 8600
+    },
+    {
+      "displayName": "§9Bonzo's Mask",
+      "id": "BONZO_MASK",
+      "chance": 0.034884,
+      "maxScore": 8600
+    },
+    {
+      "displayName": "§9Balloon Snake",
+      "id": "BALLOON_SNAKE",
+      "chance": 0.034884,
+      "maxScore": 8600
+    },
+    {
+      "displayName": "§6Recombobulator 3000",
+      "id": "RECOMBOBULATOR_3000",
+      "chance": 0.046512000000000005,
+      "maxScore": 6450
+    },
+    {
+      "displayName": "§9Red Nose",
+      "id": "RED_NOSE",
+      "chance": 0.046512000000000005,
+      "maxScore": 6450
+    },
+    {
+      "displayName": "§5Hot Potato Book",
+      "id": "HOT_POTATO_BOOK",
+      "chance": 0.05814,
+      "maxScore": 5160
+    },
+    {
+      "displayName": "§aEnchanted Book (Infinite Quiver VI§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.069767,
+      "maxScore": 4300
+    },
+    {
+      "displayName": "§aEnchanted Book (Feather Falling VI§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.069767,
+      "maxScore": 4300
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lCombo I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.11627900000000001,
+      "maxScore": 2580
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lNo Pain No Gain I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.11627900000000001,
+      "maxScore": 2580
+    },
+    {
+      "displayName": "§9Necromancer's Brooch",
+      "id": "NECROMANCER_BROOCH",
+      "chance": 0.11627900000000001,
+      "maxScore": 2580
+    },
+    {
+      "displayName": "§aEnchanted Book (Rejuvenate I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.174419,
+      "maxScore": 1720
+    }
+  ],
+  "M2": [
+    {
+      "displayName": "§9Red Scarf",
+      "id": "RED_SCARF",
+      "chance": 0.016129,
+      "maxScore": 18600
+    },
+    {
+      "displayName": "§5Adaptive Blade",
+      "id": "STONE_BLADE",
+      "chance": 0.032258,
+      "maxScore": 9300
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lBank I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.032258,
+      "maxScore": 9300
+    },
+    {
+      "displayName": "§6Recombobulator 3000",
+      "id": "RECOMBOBULATOR_3000",
+      "chance": 0.048387,
+      "maxScore": 6199
+    },
+    {
+      "displayName": "§fMaster Skull - Tier 2",
+      "id": "MASTER_SKULL_TIER_2",
+      "chance": 0.048387,
+      "maxScore": 6199
+    },
+    {
+      "displayName": "§5Adaptive Belt",
+      "id": "ADAPTIVE_BELT",
+      "chance": 0.048387,
+      "maxScore": 6199
+    },
+    {
+      "displayName": "§5Fuming Potato Book",
+      "id": "FUMING_POTATO_BOOK",
+      "chance": 0.048387,
+      "maxScore": 6199
+    },
+    {
+      "displayName": "§9Scarf's Studies",
+      "id": "SCARF_STUDIES",
+      "chance": 0.064516,
+      "maxScore": 4650
+    },
+    {
+      "displayName": "§5Hot Potato Book",
+      "id": "HOT_POTATO_BOOK",
+      "chance": 0.08064500000000001,
+      "maxScore": 3720
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lCombo I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.08064500000000001,
+      "maxScore": 3720
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lNo Pain No Gain I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.08064500000000001,
+      "maxScore": 3720
+    },
+    {
+      "displayName": "§9Necromancer's Brooch",
+      "id": "NECROMANCER_BROOCH",
+      "chance": 0.08064500000000001,
+      "maxScore": 3720
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Wise I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.16129000000000002,
+      "maxScore": 1860
+    },
+    {
+      "displayName": "§aEnchanted Book (Rejuvenate I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.16129000000000002,
+      "maxScore": 1860
+    }
+  ],
+  "M3": [
+    {
+      "displayName": "§5Adaptive Chestplate",
+      "id": "ADAPTIVE_CHESTPLATE",
+      "chance": 0.012658,
+      "maxScore": 23700
+    },
+    {
+      "displayName": "§5Adaptive Leggings",
+      "id": "ADAPTIVE_LEGGINGS",
+      "chance": 0.012658,
+      "maxScore": 23700
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Jerry II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.012658,
+      "maxScore": 23700
+    },
+    {
+      "displayName": "§5First Master Star",
+      "id": "FIRST_MASTER_STAR",
+      "chance": 0.025316,
+      "maxScore": 11850
+    },
+    {
+      "displayName": "§5Adaptive Helmet",
+      "id": "ADAPTIVE_HELMET",
+      "chance": 0.025316,
+      "maxScore": 11850
+    },
+    {
+      "displayName": "§5Adaptive Boots",
+      "id": "ADAPTIVE_BOOTS",
+      "chance": 0.025316,
+      "maxScore": 11850
+    },
+    {
+      "displayName": "§5Fuming Potato Book",
+      "id": "FUMING_POTATO_BOOK",
+      "chance": 0.037975,
+      "maxScore": 7900
+    },
+    {
+      "displayName": "§6Recombobulator 3000",
+      "id": "RECOMBOBULATOR_3000",
+      "chance": 0.050633,
+      "maxScore": 5925
+    },
+    {
+      "displayName": "§aMaster Skull - Tier 3",
+      "id": "MASTER_SKULL_TIER_3",
+      "chance": 0.050633,
+      "maxScore": 5925
+    },
+    {
+      "displayName": "§9Necromancer's Brooch",
+      "id": "NECROMANCER_BROOCH",
+      "chance": 0.050633,
+      "maxScore": 5925
+    },
+    {
+      "displayName": "§5Hot Potato Book",
+      "id": "HOT_POTATO_BOOK",
+      "chance": 0.063291,
+      "maxScore": 4740
+    },
+    {
+      "displayName": "§9Suspicious Vial",
+      "id": "SUSPICIOUS_VIAL",
+      "chance": 0.063291,
+      "maxScore": 4740
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lCombo I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.063291,
+      "maxScore": 4740
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lNo Pain No Gain I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.063291,
+      "maxScore": 4740
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Wise I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.075949,
+      "maxScore": 3950
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lBank II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.075949,
+      "maxScore": 3950
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lWisdom I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.075949,
+      "maxScore": 3950
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lLast Stand I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.101266,
+      "maxScore": 2962
+    },
+    {
+      "displayName": "§aEnchanted Book (Rejuvenate II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.101266,
+      "maxScore": 2962
+    }
+  ],
+  "M4": [
+    {
+      "displayName": "§5Spirit Sword",
+      "id": "SPIRIT_SWORD",
+      "chance": 0.013699,
+      "maxScore": 21900
+    },
+    {
+      "displayName": "§6Spirit Shortbow",
+      "id": "ITEM_SPIRIT_BOW",
+      "chance": 0.013699,
+      "maxScore": 21900
+    },
+    {
+      "displayName": "§5Spirit Boots",
+      "id": "THORNS_BOOTS",
+      "chance": 0.013699,
+      "maxScore": 21900
+    },
+    {
+      "displayName": "§7[Lvl 1] §6Spirit",
+      "id": "PET",
+      "chance": 0.013699,
+      "maxScore": 21900
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Jerry II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.013699,
+      "maxScore": 21900
+    },
+    {
+      "displayName": "§5Second Master Star",
+      "id": "SECOND_MASTER_STAR",
+      "chance": 0.027397,
+      "maxScore": 10950
+    },
+    {
+      "displayName": "§5Spirit Wing",
+      "id": "SPIRIT_WING",
+      "chance": 0.027397,
+      "maxScore": 10950
+    },
+    {
+      "displayName": "§5Spirit Bone",
+      "id": "SPIRIT_BONE",
+      "chance": 0.027397,
+      "maxScore": 10950
+    },
+    {
+      "displayName": "§9Spirit Stone",
+      "id": "SPIRIT_DECOY",
+      "chance": 0.027397,
+      "maxScore": 10950
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lRend II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.027397,
+      "maxScore": 10950
+    },
+    {
+      "displayName": "§6Recombobulator 3000",
+      "id": "RECOMBOBULATOR_3000",
+      "chance": 0.041096,
+      "maxScore": 7300
+    },
+    {
+      "displayName": "§aMaster Skull - Tier 3",
+      "id": "MASTER_SKULL_TIER_3",
+      "chance": 0.041096,
+      "maxScore": 7300
+    },
+    {
+      "displayName": "§5Fuming Potato Book",
+      "id": "FUMING_POTATO_BOOK",
+      "chance": 0.041096,
+      "maxScore": 7300
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lNo Pain No Gain I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.054794999999999996,
+      "maxScore": 5475
+    },
+    {
+      "displayName": "§5Hot Potato Book",
+      "id": "HOT_POTATO_BOOK",
+      "chance": 0.068493,
+      "maxScore": 4380
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lCombo I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.068493,
+      "maxScore": 4380
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Wise I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.082192,
+      "maxScore": 3650
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lBank II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.082192,
+      "maxScore": 3650
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lWisdom I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.082192,
+      "maxScore": 3650
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lLast Stand I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.10958899999999999,
+      "maxScore": 2737
+    },
+    {
+      "displayName": "§aEnchanted Book (Rejuvenate II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.10958899999999999,
+      "maxScore": 2737
+    }
+  ],
+  "M5": [
+    {
+      "displayName": "§6Shadow Fury",
+      "id": "SHADOW_FURY",
+      "chance": 0.003077,
+      "maxScore": 97500
+    },
+    {
+      "displayName": "§6Last Breath",
+      "id": "LAST_BREATH",
+      "chance": 0.003077,
+      "maxScore": 97500
+    },
+    {
+      "displayName": "§5Shadow Assassin Chestplate",
+      "id": "SHADOW_ASSASSIN_CHESTPLATE",
+      "chance": 0.006154,
+      "maxScore": 48750
+    },
+    {
+      "displayName": "§5Third Master Star",
+      "id": "THIRD_MASTER_STAR",
+      "chance": 0.006154,
+      "maxScore": 48750
+    },
+    {
+      "displayName": "§9Warped Stone",
+      "id": "AOTE_STONE",
+      "chance": 0.006154,
+      "maxScore": 48750
+    },
+    {
+      "displayName": "§6Livid Dagger",
+      "id": "LIVID_DAGGER",
+      "chance": 0.012308,
+      "maxScore": 24375
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Jerry III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.012308,
+      "maxScore": 24375
+    },
+    {
+      "displayName": "§5Shadow Assassin Leggings",
+      "id": "SHADOW_ASSASSIN_LEGGINGS",
+      "chance": 0.015385,
+      "maxScore": 19500
+    },
+    {
+      "displayName": "§5Shadow Assassin Cloak",
+      "id": "SHADOW_ASSASSIN_CLOAK",
+      "chance": 0.015385,
+      "maxScore": 19500
+    },
+    {
+      "displayName": "§aMaster Skull - Tier 4",
+      "id": "MASTER_SKULL_TIER_4",
+      "chance": 0.015385,
+      "maxScore": 19500
+    },
+    {
+      "displayName": "§6Recombobulator 3000",
+      "id": "RECOMBOBULATOR_3000",
+      "chance": 0.018462,
+      "maxScore": 16250
+    },
+    {
+      "displayName": "§5Shadow Assassin Helmet",
+      "id": "SHADOW_ASSASSIN_HELMET",
+      "chance": 0.030769,
+      "maxScore": 9750
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lBank III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.030769,
+      "maxScore": 9750
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lWisdom II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.036923,
+      "maxScore": 8125
+    },
+    {
+      "displayName": "§5Shadow Assassin Boots",
+      "id": "SHADOW_ASSASSIN_BOOTS",
+      "chance": 0.046154,
+      "maxScore": 6499
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lCombo II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.046154,
+      "maxScore": 6499
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lNo Pain No Gain II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.046154,
+      "maxScore": 6499
+    },
+    {
+      "displayName": "§5Fuming Potato Book",
+      "id": "FUMING_POTATO_BOOK",
+      "chance": 0.061538,
+      "maxScore": 4875
+    },
+    {
+      "displayName": "§aEnchanted Book (Overload I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.061538,
+      "maxScore": 4875
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lLegion I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.061538,
+      "maxScore": 4875
+    },
+    {
+      "displayName": "§aEnchanted Book (Lethality VI§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.061538,
+      "maxScore": 4875
+    },
+    {
+      "displayName": "§9Dark Orb",
+      "id": "DARK_ORB",
+      "chance": 0.092308,
+      "maxScore": 3249
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Wise II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.092308,
+      "maxScore": 3249
+    },
+    {
+      "displayName": "§aEnchanted Book (Rejuvenate III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.107692,
+      "maxScore": 2785
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lLast Stand II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.107692,
+      "maxScore": 2785
+    }
+  ],
+  "M6": [
+    {
+      "displayName": "§6Precursor Eye",
+      "id": "PRECURSOR_EYE",
+      "chance": 0.001108,
+      "maxScore": 270800
+    },
+    {
+      "displayName": "§6Giant's Sword",
+      "id": "GIANTS_SWORD",
+      "chance": 0.002216,
+      "maxScore": 135400
+    },
+    {
+      "displayName": "§6Necromancer Lord Chestplate",
+      "id": "NECROMANCER_LORD_CHESTPLATE",
+      "chance": 0.002954,
+      "maxScore": 101550
+    },
+    {
+      "displayName": "§5Fourth Master Star",
+      "id": "FOURTH_MASTER_STAR",
+      "chance": 0.003693,
+      "maxScore": 81240
+    },
+    {
+      "displayName": "§9Summoning Ring",
+      "id": "SUMMONING_RING",
+      "chance": 0.003693,
+      "maxScore": 81240
+    },
+    {
+      "displayName": "§aMaster Skull - Tier 4",
+      "id": "MASTER_SKULL_TIER_4",
+      "chance": 0.003693,
+      "maxScore": 81240
+    },
+    {
+      "displayName": "§6Fel Skull",
+      "id": "FEL_SKULL",
+      "chance": 0.005539,
+      "maxScore": 54160
+    },
+    {
+      "displayName": "§6Necromancer Sword",
+      "id": "NECROMANCER_SWORD",
+      "chance": 0.007386,
+      "maxScore": 40620
+    },
+    {
+      "displayName": "§6Necromancer Lord Leggings",
+      "id": "NECROMANCER_LORD_LEGGINGS",
+      "chance": 0.011078,
+      "maxScore": 27080
+    },
+    {
+      "displayName": "§5Soulweaver Gloves",
+      "id": "SOULWEAVER_GLOVES",
+      "chance": 0.011078,
+      "maxScore": 27080
+    },
+    {
+      "displayName": "§6Necromancer Lord Helmet",
+      "id": "NECROMANCER_LORD_HELMET",
+      "chance": 0.014771000000000001,
+      "maxScore": 20310
+    },
+    {
+      "displayName": "§5Sadan's Brooch",
+      "id": "SADAN_BROOCH",
+      "chance": 0.014771000000000001,
+      "maxScore": 20310
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Jerry III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.014771000000000001,
+      "maxScore": 20310
+    },
+    {
+      "displayName": "§5Giant Tooth",
+      "id": "GIANT_TOOTH",
+      "chance": 0.018464,
+      "maxScore": 16247
+    },
+    {
+      "displayName": "§6Necromancer Lord Boots",
+      "id": "NECROMANCER_LORD_BOOTS",
+      "chance": 0.022157,
+      "maxScore": 13540
+    },
+    {
+      "displayName": "§6Recombobulator 3000",
+      "id": "RECOMBOBULATOR_3000",
+      "chance": 0.044313000000000005,
+      "maxScore": 6770
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lSwarm I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.055391,
+      "maxScore": 5415
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lNo Pain No Gain II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.064623,
+      "maxScore": 4642
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lBank III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.064623,
+      "maxScore": 4642
+    },
+    {
+      "displayName": "§5Fuming Potato Book",
+      "id": "FUMING_POTATO_BOOK",
+      "chance": 0.073855,
+      "maxScore": 4061
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lCombo II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.073855,
+      "maxScore": 4061
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lWisdom II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.083087,
+      "maxScore": 3610
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Wise II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.121861,
+      "maxScore": 2461
+    },
+    {
+      "displayName": "§aEnchanted Book (Rejuvenate III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.140325,
+      "maxScore": 2137
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lLast Stand II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.140325,
+      "maxScore": 2137
+    }
+  ],
+  "M7": [
+    {
+      "displayName": "§6Necron Dye",
+      "id": "DYE_NECRON",
+      "chance": 0.00021600000000000002,
+      "maxScore": 1389600
+    },
+    {
+      "displayName": "§cStorm the Fish",
+      "id": "STORM_THE_FISH",
+      "chance": 0.00035999999999999997,
+      "maxScore": 833760
+    },
+    {
+      "displayName": "§cMaxor the Fish",
+      "id": "MAXOR_THE_FISH",
+      "chance": 0.00035999999999999997,
+      "maxScore": 833760
+    },
+    {
+      "displayName": "§cGoldor the Fish",
+      "id": "GOLDOR_THE_FISH",
+      "chance": 0.00035999999999999997,
+      "maxScore": 833760
+    },
+    {
+      "displayName": "§6Dark Claymore",
+      "id": "DARK_CLAYMORE",
+      "chance": 0.0007199999999999999,
+      "maxScore": 416880
+    },
+    {
+      "displayName": "§5Necron's Handle",
+      "id": "NECRON_HANDLE",
+      "chance": 0.0012950000000000001,
+      "maxScore": 231599
+    },
+    {
+      "displayName": "§aEnchanted Book (Thunderlord VII§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.001439,
+      "maxScore": 208440
+    },
+    {
+      "displayName": "§9Master Skull - Tier 5",
+      "id": "MASTER_SKULL_TIER_5",
+      "chance": 0.001727,
+      "maxScore": 173700
+    },
+    {
+      "displayName": "§5Shadow Warp",
+      "id": "SHADOW_WARP_SCROLL",
+      "chance": 0.001799,
+      "maxScore": 166752
+    },
+    {
+      "displayName": "§5Wither Shield",
+      "id": "WITHER_SHIELD_SCROLL",
+      "chance": 0.001799,
+      "maxScore": 166752
+    },
+    {
+      "displayName": "§5Implosion",
+      "id": "IMPLOSION_SCROLL",
+      "chance": 0.001799,
+      "maxScore": 166752
+    },
+    {
+      "displayName": "§5Fifth Master Star",
+      "id": "FIFTH_MASTER_STAR",
+      "chance": 0.002159,
+      "maxScore": 138960
+    },
+    {
+      "displayName": "§6Auto Recombobulator",
+      "id": "AUTO_RECOMBOBULATOR",
+      "chance": 0.005757,
+      "maxScore": 52110
+    },
+    {
+      "displayName": "§6Wither Chestplate",
+      "id": "WITHER_CHESTPLATE",
+      "chance": 0.005757,
+      "maxScore": 52110
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lOne For All I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.005757,
+      "maxScore": 52110
+    },
+    {
+      "displayName": "§6Wither Leggings",
+      "id": "WITHER_LEGGINGS",
+      "chance": 0.023028,
+      "maxScore": 13027
+    },
+    {
+      "displayName": "§aEnchanted Book (Feather Falling VII§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.023028,
+      "maxScore": 13027
+    },
+    {
+      "displayName": "§5Fuming Potato Book",
+      "id": "FUMING_POTATO_BOOK",
+      "chance": 0.028784999999999998,
+      "maxScore": 10422
+    },
+    {
+      "displayName": "§9Wither Catalyst",
+      "id": "WITHER_CATALYST",
+      "chance": 0.028784999999999998,
+      "maxScore": 10422
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lNo Pain No Gain II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.028784999999999998,
+      "maxScore": 10422
+    },
+    {
+      "displayName": "§5Wither Cloak Sword",
+      "id": "WITHER_CLOAK",
+      "chance": 0.034542,
+      "maxScore": 8685
+    },
+    {
+      "displayName": "§6Wither Helmet",
+      "id": "WITHER_HELMET",
+      "chance": 0.034542,
+      "maxScore": 8685
+    },
+    {
+      "displayName": "§5Wither Blood",
+      "id": "WITHER_BLOOD",
+      "chance": 0.034542,
+      "maxScore": 8685
+    },
+    {
+      "displayName": "§6Wither Boots",
+      "id": "WITHER_BOOTS",
+      "chance": 0.034542,
+      "maxScore": 8685
+    },
+    {
+      "displayName": "§6Recombobulator 3000",
+      "id": "RECOMBOBULATOR_3000",
+      "chance": 0.035982,
+      "maxScore": 8337
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lBank III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.035982,
+      "maxScore": 8337
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lWisdom II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.035982,
+      "maxScore": 8337
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Jerry III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.043178,
+      "maxScore": 6948
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lSoul Eater I§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.057571000000000004,
+      "maxScore": 5211
+    },
+    {
+      "displayName": "§5Hot Potato Book",
+      "id": "HOT_POTATO_BOOK",
+      "chance": 0.057571000000000004,
+      "maxScore": 5211
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lUltimate Wise II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.057571000000000004,
+      "maxScore": 5211
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lCombo II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.071963,
+      "maxScore": 4168
+    },
+    {
+      "displayName": "§aEnchanted Book (Rejuvenate III§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.071963,
+      "maxScore": 4168
+    },
+    {
+      "displayName": "§aEnchanted Book (§d§lLast Stand II§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.071963,
+      "maxScore": 4168
+    },
+    {
+      "displayName": "§aEnchanted Book (Infinite Quiver VII§a)",
+      "id": "ENCHANTED_BOOK",
+      "chance": 0.071963,
+      "maxScore": 4168
+    },
+    {
+      "displayName": "§5Precursor Gear",
+      "id": "PRECURSOR_GEAR",
+      "chance": 0.086356,
+      "maxScore": 3474
+    }
+  ]
+}
